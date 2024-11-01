@@ -35,8 +35,7 @@ https://www.kaggle.com/datasets/jacksoncrow/stock-market-dataset
 https://www.kaggle.com/uciml/iris
    - This is a classic dataset that includes 150 samples of iris flowers, each described by four features: `Sepal Length`, `Sepal Width`, `Petal Length`, and `Petal Width`.
    - Each sample is categorized into one of three Iris-species: **Setosa**, **Versicolor**, or **Virginica**.
-   - **Objective**: The logistic regression analysis aims to classify each iris flower sample into its respective species based on its features.
-
+     
 ## Project Objectives
 
 The objectives of this project are as follows:
