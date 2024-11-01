@@ -44,7 +44,7 @@ The objectives of this project are as follows:
 1. **Linear Regression Analysis**:
    - Determine the relationship between two quantitative variables(dependent and independent)
    - Interpret the coefficients and predictive power of the Linear Regression model that will be used on predicting future stock market price.
-   - Apply Linear Regression analysis in predicticting the future stock market prices based on the dependent and independent variables of the of Apple Inc. historical price data (e.g., open, close, high, low, and volume). By using `Close` as independent variable(y) and `Open`, `High`, `Low`,`Volume` as dependent variables(X) and implementing a linear regression, this can obtain predictions for future stock prices of Apple Inc. on a certain amount of span given. 
+   - Apply Linear Regression analysis in predicticting future stock market prices on the next five days based on the dependent and independent variables of the of Apple Inc. historical price data (e.g., open, close, high, low, and volume). By using `Close` as independent variable(y) and `Open`, `High`, `Low`,`Volume` as dependent variables(X) and implementing a linear regression, this can obtain predictions for future stock prices of Apple Inc. on a certain amount of span given. 
    - Evaluate model performance using appropriate regression metrics like **Mean Squared Error (MSE)** and **R-squared (R²)**.
 
 2. **Logistic Regression Analysis**:
