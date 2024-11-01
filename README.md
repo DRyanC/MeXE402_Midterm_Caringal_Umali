@@ -15,7 +15,7 @@ The project is divided into two parts, each addressing different datasets and ob
 ### 1. **Stock Price Data of Apple Inc. (Linear Regression)**:
 https://www.kaggle.com/datasets/jacksoncrow/stock-market-dataset 
    - This dataset contains historical stock prices of Apple Inc., including variables such as `Open`, `High`, `Low`, `Close`, `Adj Close`, and `Volume`.
-   - **Objective**: The aim of the linear regression analysis is to predict future stock prices of Apple Inc. based on the available historical data.
+   - **Objective**: The aim of the linear regression analysis is to predict future stock prices of Apple Inc. based on the available historical data. By using `Close` as independent variable(y) and `Open`, `High`, `Low`,`Volume` as dependent variables(X) and implementing linear regression, this can obtain predictions for future stock prices of Apple Inc. on a certain amount of span given. 
 
 ### 2. **Iris Flower Classification Dataset (Logistic Regression)**:
 https://www.kaggle.com/uciml/iris
