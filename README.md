@@ -48,11 +48,12 @@ The objectives of this project are as follows:
 
 2. **Logistic Regression Analysis**:
    - Classify iris flowers into one of the three species using their physical characteristics (sepal length, sepal width, petal length, petal width).
-   - Assess the performance of the classification model using metrics such as **Accuracy**, **Precision**, **Recall**, and **F1 Score**.
+   - Assess the performance of the classification model using metric **Accuracy**.
+
+3. **Provide Insights for Practical Application**:
+   - Use the results and analysis to offer insights into the feasibility of applying this model in practical applications, such as in **botanical studies**, **ecological monitoring**, or **educational tools for plant identification**.
 
 By the end of this project, we aim to demonstrate the effectiveness of both linear and logistic regression in real-world scenarios, from predicting stock prices to classifying biological species.
 
-## Documentation
-### Methodology
 
 
